@@ -22,6 +22,8 @@ This project demonstrates a complete workflow to build a Cold Email Generator us
 ---
 
 ### 📈 **How It Works**
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/4f6edfcd-cfc8-4d31-a389-ff8b82143463">
+
 
 #### 1️⃣ **Data Extraction**
 - **Web Scraping**: Automatically extract job descriptions and other relevant information from target company websites.
