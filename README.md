@@ -71,5 +71,8 @@ This project demonstrates a complete workflow to build a Cold Email Generator us
 If desired, fine-tune Lama 3.1 on specific cold email datasets for improved email generation.
 ### Step 4: Run the Application
 - Start the Streamlit application:
+  ```bash
+  streamlit run main.py
+- incase your streamlit show any error:
 ```bash
-streamlit run main.py.
+  python -m stramlit run filename.py
