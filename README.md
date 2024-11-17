@@ -14,7 +14,7 @@ This project demonstrates a complete workflow to build a Cold Email Generator us
 | **Component**    | **Technology**     |
 |------------------|--------------------|
 | **LLM**          | Lama-3.1-70b-versatile|           |
-| **Vector Database** | ChromADB         |
+| **Vector Database** | ChromaDB         |
 | **Framework**    | LangChain          |
 | **UI**           | Streamlit          |
 | **Cloud Platform** | Grok             |
